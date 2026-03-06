@@ -84,8 +84,9 @@ Business Intelligence
 
 📷 Dashboard Preview
 
-![Superstore-Sales-Analysis-Dashboard](https://github.com/user-attachments/assets/1b706ad0-2d32-4c41-8065-2841f8141d72)
 
+
+![Sales Dashboard](dashboard.png)
 
 
 📊 Key Learnings
