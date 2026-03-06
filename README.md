@@ -1,4 +1,4 @@
-📊 Superstore Sales Dashboard (Power BI)
+📊 Superstore Sales Analysis Dashboard (Power BI)
 
 This project presents an interactive Sales Analytics Dashboard built using Power BI to analyze business performance using the Sample Superstore dataset.
 
