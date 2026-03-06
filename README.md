@@ -86,7 +86,7 @@ Business Intelligence
 
 
 
-![Superstore-Sales-Dashboard](dashboard.png)
+![Superstore-Sales-Analysis-Dashboard](dashboard.png)
 
 
 📊 Key Learnings
