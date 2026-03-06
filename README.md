@@ -82,7 +82,7 @@ DAX Measures
 
 Business Intelligence
 
-📷 Dashboard Preview
+## Dashboard Preview
 
 
 
