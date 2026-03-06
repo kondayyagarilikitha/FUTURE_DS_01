@@ -86,7 +86,7 @@ Business Intelligence
 
 
 
-![ dashboard](dashboard.jpeg)
+![dashboard](dashboard.jpeg)
 
 
 📊 Key Learnings
